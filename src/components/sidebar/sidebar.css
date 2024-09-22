@@ -7,7 +7,7 @@
 }
 
 .sidebar img{
-    width: 20px;
+    width: 1rem;
 }
 .sidebar .menu{
     display: block;
@@ -18,14 +18,14 @@
 }
 .sidebar .new_chat{
     margin-top: 30px;
-    height: 40px;
+    height: 2.5rem;
     display: inline-flex;
     align-items: center;
     gap: 10px;
     padding: 10px 15px;
     background-color: #e6eaf1;
     border-radius: 50px;
-    font-size: 14px;
+    font-size: 1rem;
     color: grey;
     cursor: pointer;
 }
@@ -39,7 +39,7 @@
 }
 .sidebar .recent_entry{
     display: flex;
-    height: 20px;
+    height: 2.5rem;
     align-items: center;
     gap: 10px;
     padding:10px;

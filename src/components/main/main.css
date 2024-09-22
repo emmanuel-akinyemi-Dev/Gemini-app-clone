@@ -22,7 +22,7 @@
 }
 .main .greeting{
     margin: 50px 0px;
-    font-size: 56px;
+    font-size: 4rem;
     color: #c4c7c5;
     padding: 20px;
     font-weight: 500;
@@ -39,7 +39,7 @@
     padding: 20px;
 }
  .main .card{
-    height: 200px;
+    height: 12rem;
     padding: 15px;
     background-color: #f0f4f9;
     border-radius: 10px;
@@ -47,7 +47,7 @@
     cursor: pointer;
 }
 .main .card img{
-    width: 35px ;
+    width: 18% ;
     padding: 5px;
     position: absolute;
     background-color: white;
@@ -57,7 +57,7 @@
 }
 .main .card p{
     color: #585858;
-    font-size:17px;
+    font-size:1rem;
 }
 .main .card:hover{
     background-color: #dfe4ea;
@@ -75,22 +75,23 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 20px;
+    gap: 1rem;
     background-color: #f0f4f9;
     padding: 10px 20px;
     border-radius: 50px;
     margin-bottom: 12px;
 }
 .search_box img{
-    width: 24px;
+    width: 1.8rem;
     cursor: pointer;
 }
 .search_box input{
     flex: 1;
+    width: 1rem;
     background: transparent;
     border: none ;
     padding: 8px;
-    font-size: 18px;
+    font-size: 1rem;
 }
 .search_box div{
     display: flex;
@@ -98,8 +99,8 @@
     gap: 15px;
 }
 .main .bottom_info{
-    font-size: 13px;
-    margin: 15px auto;
+    font-size: 0.8rem;
+    margin: 1% auto;
     text-align: center;
     font-weight: 300;
 }

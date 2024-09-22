@@ -7,9 +7,8 @@ const ContextProvider =(props)=>{
     const onSent = async (prompt)=>{
         await run(prompt)
     }
-
-    onSent('what is react js?')
     
+    onSent('what can i call you?')
     const contextValue ={
 
     }

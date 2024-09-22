@@ -1,5 +1,5 @@
 import { assets } from '../../assets/assets'
-import './main.css'
+import './main.css' 
 
  function Main() {
   return (
